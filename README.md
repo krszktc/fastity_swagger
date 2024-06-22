@@ -8,7 +8,7 @@ Simple functionality to calculate source and destination airport base of unsorte
 
 ### Models
 input:
-```
+``` js
 { 
   "flights": [
     ['ATL', 'EWR'], ['SFO', 'ATL']
@@ -17,7 +17,7 @@ input:
 ```
 
 response:
-```
+``` js
 {
     "totalFlightPath": ['SFO', 'EWR']
 }
