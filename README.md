@@ -5,6 +5,7 @@ Simple functionality to calculate source and destination airport base of unsorte
 - call `npm start` to run server
 - run `npm test` to run test scenarios
 - send POST on `http://localhost:8080/calculate` to calculate path
+- open `http://localhost:8080/docs` to use swagger ui
 
 ### Models
 input:
